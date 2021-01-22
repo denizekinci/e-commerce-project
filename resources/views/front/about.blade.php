@@ -3,7 +3,7 @@
 @section('content')
     <hr class="soften">
     <div>
-        <h1>About us</h1>
+        <h1>Hakkımızda</h1>
     </div>
     <hr class="soften">
     <div class="row">
@@ -20,11 +20,11 @@
             </p>
         </div>
         <div class="span4">
-            Monday - Friday<br/>
+            Pazartesi - Cuma<br/>
             09:00am - 09:00pm<br/>
-            Saturday<br/>
+            Cumartesi<br/>
             09:00am - 07:00pm<br/>
-            Sunday<br/>
+            Pazar<br/>
             12:30pm - 06:00pm<br/>
         </div>
     </div>

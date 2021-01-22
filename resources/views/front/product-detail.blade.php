@@ -3,9 +3,9 @@
 @section('content')
     <div class="span9">
         <ul class="breadcrumb">
-            <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-            <li><a href="products.html">Items</a> <span class="divider">/</span></li>
-            <li class="active">Preview</li>
+            <li><a href="index.html">Anasayfa</a> <span class="divider">/</span></li>
+            <li><a href="products.html">Ürünler</a> <span class="divider">/</span></li>
+            <li class="active">İncele</li>
         </ul>
         <div class="well well-small">
             <div class="row-fluid">
@@ -27,44 +27,43 @@
                     </div>
                 </div>
                 <div class="span7">
-                    <h3>Name of the Item [$140.00]</h3>
+                    <h3>Ürün Adı [$140.00]</h3>
                     <hr class="soft"/>
 
                     <form class="form-horizontal qtyFrm">
                         <div class="control-group">
                             <label class="control-label"><span>$140.00</span></label>
                             <div class="controls">
-                                <input type="number" class="span6" placeholder="Qty.">
+                                <input type="number" class="span6" placeholder="Adet">
                             </div>
                         </div>
 
                         <div class="control-group">
-                            <label class="control-label"><span>Color</span></label>
+                            <label class="control-label"><span>Renk</span></label>
                             <div class="controls">
                                 <select class="span11">
-                                    <option>Red</option>
-                                    <option>Purple</option>
-                                    <option>Pink</option>
-                                    <option>Red</option>
+                                    <option>Kırmızı</option>
+                                    <option>Mor</option>
+                                    <option>Pembe</option>
+                                    <option>Kırmızı</option>
                                 </select>
                             </div>
                         </div>
                         <div class="control-group">
-                            <label class="control-label"><span>Materials</span></label>
+                            <label class="control-label"><span>Materyal</span></label>
                             <div class="controls">
                                 <select class="span11">
-                                    <option>Material 1</option>
-                                    <option>Material 2</option>
-                                    <option>Material 3</option>
-                                    <option>Material 4</option>
+                                    <option>Materyal 1</option>
+                                    <option>Materyal 2</option>
+                                    <option>Materyal 3</option>
+                                    <option>Materyal 4</option>
                                 </select>
                             </div>
                         </div>
-                        <h4>100 items in stock</h4>
-                        <p>Nowadays the lingerie industry is one of the most successful business spheres.
-                            Nowadays the lingerie industry is one of ...
+                        <h4>Stok adedi : 100</h4>
+                        <p>Burada da ürün açıklaması yer alacaktır.
                         <p>
-                            <button type="submit" class="shopBtn"><span class=" icon-shopping-cart"></span> Add to cart</button>
+                            <button type="submit" class="shopBtn"><span class=" icon-shopping-cart"></span> Sepete Ekle</button>
                     </form>
                 </div>
             </div>
@@ -72,27 +71,27 @@
 
 
             <ul id="productDetail" class="nav nav-tabs">
-                <li class="active"><a href="#home" data-toggle="tab">Product Details</a></li>
-                <li class=""><a href="#profile" data-toggle="tab">Related Products </a></li>
+                <li class="active"><a href="#home" data-toggle="tab">Ürün Detayları</a></li>
+                <li class=""><a href="#profile" data-toggle="tab">Önerilen Ürünler </a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceseries <b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Aksesuarlar <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#cat1" data-toggle="tab">Category one</a></li>
-                        <li><a href="#cat2" data-toggle="tab">Category two</a></li>
+                        <li><a href="#cat1" data-toggle="tab">Kategori Bir</a></li>
+                        <li><a href="#cat2" data-toggle="tab">Kategori İki</a></li>
                     </ul>
                 </li>
             </ul>
             <div id="myTabContent" class="tab-content tabWrapper">
                 <div class="tab-pane fade active in" id="home">
-                    <h4>Product Information</h4>
+                    <h4>Ürün Bilgileri</h4>
                     <table class="table table-striped">
                         <tbody>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Color:</td><td class="techSpecTD2">Black</td></tr>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Style:</td><td class="techSpecTD2">Apparel,Sports</td></tr>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Season:</td><td class="techSpecTD2">spring/summer</td></tr>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Usage:</td><td class="techSpecTD2">fitness</td></tr>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Sport:</td><td class="techSpecTD2">122855031</td></tr>
-                        <tr class="techSpecRow"><td class="techSpecTD1">Brand:</td><td class="techSpecTD2">Shock Absorber</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Renk:</td><td class="techSpecTD2">Siyah</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Stil:</td><td class="techSpecTD2">Giyim, Spor</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Sezon:</td><td class="techSpecTD2">İlkbahar/Yaz</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Kullanım Alanı:</td><td class="techSpecTD2">Fitness</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Spor:</td><td class="techSpecTD2">122855031</td></tr>
+                        <tr class="techSpecRow"><td class="techSpecTD1">Marka:</td><td class="techSpecTD2">Shock Absorber</td></tr>
                         </tbody>
                     </table>
                     <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
