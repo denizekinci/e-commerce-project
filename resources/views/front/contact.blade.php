@@ -11,7 +11,7 @@
 
                 <div class="absoluteBlk">
                     <div class="well wellsmall">
-                        <h4>İletişim Detayları</h4>
+                        <h4>Contact Details</h4>
                         <h5>
                             2601 Mission St.<br/>
                             San Francisco, CA 94110<br/><br/>
@@ -19,29 +19,29 @@
                             info@mysite.com<br/>
                             ﻿Tel 123-456-6780<br/>
                             Fax 123-456-5679<br/>
-                            web:www.mysitedomain.com
+                            web:wwwmysitedomain.com
                         </h5>
                     </div>
                 </div>
             </div>
 
             <div class="span4">
-                <h4>Bize Ulaşın</h4>
+                <h4>Email Us</h4>
                 <form class="form-horizontal">
                     <fieldset>
                         <div class="control-group">
 
-                            <input type="text" placeholder="İsim" class="input-xlarge"/>
+                            <input type="text" placeholder="name" class="input-xlarge"/>
 
                         </div>
                         <div class="control-group">
 
-                            <input type="text" placeholder="E-posta" class="input-xlarge"/>
+                            <input type="text" placeholder="email" class="input-xlarge"/>
 
                         </div>
                         <div class="control-group">
 
-                            <input type="text" placeholder="Başlık" class="input-xlarge"/>
+                            <input type="text" placeholder="subject" class="input-xlarge"/>
 
                         </div>
                         <div class="control-group">
@@ -49,7 +49,7 @@
 
                         </div>
 
-                        <button class="shopBtn" type="submit">Gönder</button>
+                        <button class="shopBtn" type="submit">Send email</button>
 
                     </fieldset>
                 </form>

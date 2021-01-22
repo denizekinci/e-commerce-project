@@ -3,10 +3,10 @@
 @section('content')
     <div class="span9">
         <ul class="breadcrumb">
-            <li><a href="index.html">Ana Sayfa</a> <span class="divider">/</span></li>
-            <li class="active">Giriş Yap</li>
+            <li><a href="index.html">Home</a> <span class="divider">/</span></li>
+            <li class="active">Login</li>
         </ul>
-        <h3> Giriş Yap</h3>
+        <h3> Login</h3>
         <hr class="soft"/>
 
         <div class="row">
@@ -14,23 +14,23 @@
 
             <div class="span4">
                 <div class="well">
-                    <h5>Zaten Üye Misin?</h5>
+                    <h5>ALREADY REGISTERED ?</h5>
                     <form>
                         <div class="control-group">
-                            <label class="control-label" for="inputEmail1">E-posta</label>
+                            <label class="control-label" for="inputEmail1">Email</label>
                             <div class="controls">
-                                <input class="span3"  type="text" id="inputEmail1" placeholder="E-posta">
+                                <input class="span3"  type="text" id="inputEmail1" placeholder="Email">
                             </div>
                         </div>
                         <div class="control-group">
-                            <label class="control-label" for="inputPassword1">Şifre</label>
+                            <label class="control-label" for="inputPassword1">Password</label>
                             <div class="controls">
-                                <input type="password" class="span3"  id="inputPassword1" placeholder="Şifre">
+                                <input type="password" class="span3"  id="inputPassword1" placeholder="Password">
                             </div>
                         </div>
                         <div class="control-group">
                             <div class="controls">
-                                <button type="submit" class="btn">Giriş Yap</button> <a href="forgetpass.html">Şifreni mi unuttun?</a>
+                                <button type="submit" class="btn">Sign in</button> <a href="forgetpass.html">Forget password?</a>
                             </div>
                         </div>
                     </form>
