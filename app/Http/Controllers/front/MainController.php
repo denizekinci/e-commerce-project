@@ -9,6 +9,6 @@ class MainController extends Controller
 {
     public function index()
     {
-        return 'front.main';
+        return view('front.main');
     }
 }
