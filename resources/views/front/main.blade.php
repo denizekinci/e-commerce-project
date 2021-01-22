@@ -9,34 +9,27 @@
                         <img style="width:100%" src="assets/img/bootstrap_free-ecommerce.png"
                              alt="bootstrap ecommerce templates">
                         <div class="carousel-caption">
-                            <h4>Bootstrap shopping cart</h4>
-                            <p><span>Very clean simple to use</span></p>
+                            <h4>Mücevherler</h4>
+                            <p><span>Uygun fiyatlara yüksek kalite ürünleri keşfedin, modeller üzerinde inceleyin</span></p>
                         </div>
                     </div>
                     <div class="item">
                         <img style="width:100%" src="assets/img/carousel1.png"
                              alt="bootstrap ecommerce templates">
                         <div class="carousel-caption">
-                            <h4>Bootstrap Ecommerce template</h4>
-                            <p><span>Highly Google seo friendly</span></p>
+                            <h4>Saatler</h4>
+                            <p><span>Yüzlerce model arasından ister sade, ister gösterişli bir model beğenin</span></p>
                         </div>
                     </div>
                     <div class="item active">
                         <img style="width:100%" src="assets/img/carousel3.png"
                              alt="bootstrap ecommerce templates">
                         <div class="carousel-caption">
-                            <h4>Twitter Bootstrap cart</h4>
-                            <p><span>Very easy to integrate and expand.</span></p>
+                            <h4>Aksesuarlar</h4>
+                            <p><span>Gündelik hayatta kullanmanız için sade ve şık aksesuarlar</span></p>
                         </div>
                     </div>
-                    <div class="item">
-                        <img style="width:100%" src="assets/img/bootstrap-templates.png"
-                             alt="bootstrap templates">
-                        <div class="carousel-caption">
-                            <h4>Bootstrap templates integration</h4>
-                            <p><span>Compitable to many more opensource cart</span></p>
-                        </div>
-                    </div>
+
                 </div>
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
@@ -46,7 +39,7 @@
 New Products
 -->
         <div class="well well-small">
-            <h3>New Products </h3>
+            <h3>Yeni Ürünler </h3>
             <hr class="soften" />
             <div class="row-fluid">
                 <div id="newProductCar" class="carousel slide">
@@ -56,7 +49,7 @@ New Products
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="#" class="tag"></a>
                                         <a href="product_details.html"><img src="assets/img/bootstrap-ring.png"
                                                                             alt="bootstrap-ring"></a>
@@ -65,7 +58,7 @@ New Products
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="#" class="tag"></a>
                                         <a href="product_details.html"><img src="assets/img/i.jpg" alt=""></a>
                                     </div>
@@ -73,7 +66,7 @@ New Products
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="#" class="tag"></a>
                                         <a href="product_details.html"><img src="assets/img/g.jpg" alt=""></a>
                                     </div>
@@ -81,7 +74,7 @@ New Products
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="product_details.html"><img src="assets/img/s.png" alt=""></a>
                                     </div>
                                 </li>
@@ -92,28 +85,28 @@ New Products
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="product_details.html"><img src="assets/img/i.jpg" alt=""></a>
                                     </div>
                                 </li>
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="product_details.html"><img src="assets/img/f.jpg" alt=""></a>
                                     </div>
                                 </li>
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="product_details.html"><img src="assets/img/h.jpg" alt=""></a>
                                     </div>
                                 </li>
                                 <li class="span3">
                                     <div class="thumbnail">
                                         <a class="zoomTool" href="product_details.html"
-                                           title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+                                           title="Sepete Ekle"><span class="icon-search"></span> İncele</a>
                                         <a href="product_details.html"><img src="assets/img/j.jpg" alt=""></a>
                                     </div>
                                 </li>
@@ -129,16 +122,16 @@ New Products
                     <li class="span4">
                         <div class="thumbnail">
 
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/b.jpg" alt=""></a>
                             <div class="caption cntr">
-                                <p>Manicure & Pedicure</p>
+                                <p>Yüzükler</p>
                                 <p><strong> $22.00</strong></p>
-                                <h4><a class="shopBtn" href="#" title="add to cart"> Add to cart </a></h4>
+                                <h4><a class="shopBtn" href="#" title="Sepete Ekle"> Sepete Ekle </a></h4>
                                 <div class="actionList">
-                                    <a class="pull-left" href="#">Add to Wish List </a>
-                                    <a class="pull-left" href="#"> Add to Compare </a>
+                                    <a class="pull-left" href="#">Favorilere Ekle </a>
+                                    <a class="pull-left" href="#"> Karşılaştır </a>
                                 </div>
                                 <br class="clr">
                             </div>
@@ -146,16 +139,16 @@ New Products
                     </li>
                     <li class="span4">
                         <div class="thumbnail">
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/c.jpg" alt=""></a>
                             <div class="caption cntr">
-                                <p>Manicure & Pedicure</p>
+                                <p>Yüzükler</p>
                                 <p><strong> $22.00</strong></p>
-                                <h4><a class="shopBtn" href="#" title="add to cart"> Add to cart </a></h4>
+                                <h4><a class="shopBtn" href="#" title="Sepete Ekle"> Sepete Ekle </a></h4>
                                 <div class="actionList">
-                                    <a class="pull-left" href="#">Add to Wish List </a>
-                                    <a class="pull-left" href="#"> Add to Compare </a>
+                                    <a class="pull-left" href="#">Favorilere Ekle </a>
+                                    <a class="pull-left" href="#"> Karşılaştır </a>
                                 </div>
                                 <br class="clr">
                             </div>
@@ -163,16 +156,16 @@ New Products
                     </li>
                     <li class="span4">
                         <div class="thumbnail">
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/a.jpg" alt=""></a>
                             <div class="caption cntr">
-                                <p>Manicure & Pedicure</p>
+                                <p>Yüzükler</p>
                                 <p><strong> $22.00</strong></p>
-                                <h4><a class="shopBtn" href="#" title="add to cart"> Add to cart </a></h4>
+                                <h4><a class="shopBtn" href="#" title="Sepete Ekle"> Sepete Ekle </a></h4>
                                 <div class="actionList">
-                                    <a class="pull-left" href="#">Add to Wish List </a>
-                                    <a class="pull-left" href="#"> Add to Compare </a>
+                                    <a class="pull-left" href="#">Favorilere Ekle </a>
+                                    <a class="pull-left" href="#"> Karşılaştır </a>
                                 </div>
                                 <br class="clr">
                             </div>
@@ -185,22 +178,22 @@ New Products
 Featured Products
 -->
         <div class="well well-small">
-            <h3><a class="btn btn-mini pull-right" href="products.html" title="View more">VIew More<span
-                        class="icon-plus"></span></a> Featured Products </h3>
+            <h3><a class="btn btn-mini pull-right" href="products.html" title="Daha Fazla">Daha Fazla<span
+                        class="icon-plus"></span></a> Önerilen Ürünler </h3>
             <hr class="soften" />
             <div class="row-fluid">
                 <ul class="thumbnails">
                     <li class="span4">
                         <div class="thumbnail">
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/d.jpg" alt=""></a>
                             <div class="caption">
-                                <h5>Manicure & Pedicure</h5>
+                                <h5>Yüzükler</h5>
                                 <h4>
                                     <a class="defaultBtn" href="product_details.html"
                                        title="Click to view"><span class="icon-zoom-in"></span></a>
-                                    <a class="shopBtn" href="#" title="add to cart"><span
+                                    <a class="shopBtn" href="#" title="Sepete Ekle"><span
                                             class="icon-plus"></span></a>
                                     <span class="pull-right">$22.00</span>
                                 </h4>
@@ -209,15 +202,15 @@ Featured Products
                     </li>
                     <li class="span4">
                         <div class="thumbnail">
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/e.jpg" alt=""></a>
                             <div class="caption">
-                                <h5>Manicure & Pedicure</h5>
+                                <h5>Yüzükler</h5>
                                 <h4>
                                     <a class="defaultBtn" href="product_details.html"
                                        title="Click to view"><span class="icon-zoom-in"></span></a>
-                                    <a class="shopBtn" href="#" title="add to cart"><span
+                                    <a class="shopBtn" href="#" title="Sepete Ekle"><span
                                             class="icon-plus"></span></a>
                                     <span class="pull-right">$22.00</span>
                                 </h4>
@@ -226,15 +219,15 @@ Featured Products
                     </li>
                     <li class="span4">
                         <div class="thumbnail">
-                            <a class="zoomTool" href="product_details.html" title="add to cart"><span
-                                    class="icon-search"></span> QUICK VIEW</a>
+                            <a class="zoomTool" href="product_details.html" title="Sepete Ekle"><span
+                                    class="icon-search"></span> İncele</a>
                             <a href="product_details.html"><img src="assets/img/f.jpg" alt="" /></a>
                             <div class="caption">
-                                <h5>Manicure & Pedicure</h5>
+                                <h5>Yüzükler</h5>
                                 <h4>
                                     <a class="defaultBtn" href="product_details.html"
                                        title="Click to view"><span class="icon-zoom-in"></span></a>
-                                    <a class="shopBtn" href="#" title="add to cart"><span
+                                    <a class="shopBtn" href="#" title="Sepete Ekle"><span
                                             class="icon-plus"></span></a>
                                     <span class="pull-right">$22.00</span>
                                 </h4>
@@ -246,13 +239,13 @@ Featured Products
         </div>
 
         <div class="well well-small">
-            <a class="btn btn-mini pull-right" href="#">View more <span class="icon-plus"></span></a>
-            Popular Products
+            <a class="btn btn-mini pull-right" href="#">Daha Fazla <span class="icon-plus"></span></a>
+            Popüler Ürünler
         </div>
         <hr>
         <div class="well well-small">
-            <a class="btn btn-mini pull-right" href="#">View more <span class="icon-plus"></span></a>
-            Best selling Products
+            <a class="btn btn-mini pull-right" href="#">Daha Fazla <span class="icon-plus"></span></a>
+            Çok Satan Ürünler
         </div>
     </div>
 @endsection
