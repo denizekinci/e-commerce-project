@@ -1,6 +1,8 @@
 Projenin uygulamalı halini görmek için:
 https://denizekinci.site/
 
+Homepage
+![Homepage](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/homepage.PNG?raw=true)
 Migration-Category
 ![Migration-Category](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/Models-Migrations-Seeders/migration-category.PNG?raw=true)
 Migration-Product
