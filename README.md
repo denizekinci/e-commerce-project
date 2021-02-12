@@ -1,6 +1,15 @@
-Projenin uygulamalı halini görmek için:
-https://denizekinci.site/
+Login Form
+![Login](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/login-form?raw=true)
+Register Form
+![Register-form](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/register-form?raw=true)
+Before Register
+![Before-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/before-register?raw=true)
+After Register
+![After-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register?raw=true)
+After Register DB
+![After-Register-db](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register-db?raw=true)
 
+------------------
 Homepage
 ![Homepage](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/homepage.PNG?raw=true)
 Migration-Category

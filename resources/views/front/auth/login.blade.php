@@ -3,7 +3,7 @@
 @section('content')
     <div class="span9">
         <ul class="breadcrumb">
-            <li><a href="index.html">Ana Sayfa</a> <span class="divider">/</span></li>
+            <li><a href="index.html">Anasayfa</a> <span class="divider">/</span></li>
             <li class="active">Giriş Yap</li>
         </ul>
         <h3> Giriş Yap</h3>
@@ -14,10 +14,9 @@
 
             <div class="span4">
                 <div class="well">
-                    <h5>Zaten Üye Misin?</h5>
                     <form>
                         <div class="control-group">
-                            <label class="control-label" for="inputEmail1">E-posta</label>
+                            <label class="control-label" for="inputEmail1">E-Posta</label>
                             <div class="controls">
                                 <input class="span3"  type="text" id="inputEmail1" placeholder="E-posta">
                             </div>
@@ -30,7 +29,7 @@
                         </div>
                         <div class="control-group">
                             <div class="controls">
-                                <button type="submit" class="btn">Giriş Yap</button> <a href="forgetpass.html">Şifreni mi unuttun?</a>
+                                <a href="forgetpass.html">Şifremi Unuttum</a> <button type="submit" class="btn">Giriş Yap</button>
                             </div>
                         </div>
                     </form>
@@ -40,4 +39,3 @@
 
     </div>
 @endsection
-

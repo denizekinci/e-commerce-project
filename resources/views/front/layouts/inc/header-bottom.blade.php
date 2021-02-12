@@ -46,33 +46,18 @@ Navigation Bar Section
                     <li class=""><a href="{{route('about')}}">Hakkında</a></li>
                     <li class=""><a href="{{route('contact')}}">İletişim</a></li>
                     <li class=""><a href="{{route('cart')}}">Sepet</a></li>
-                    <li class=""><a href="{{route('login')}}">Giriş Yap</a></li>
-                    <li class=""><a href="{{route('register')}}">Kayıt Ol</a></li>
 
                 </ul>
 
                 <ul class="nav pull-right">
-                    <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle" href="#"><span
-                                class="icon-lock"></span> Giriş Yap <b class="caret"></b></a>
-                        <div class="dropdown-menu">
-                            <form class="form-horizontal loginFrm">
-                                <div class="control-group">
-                                    <input type="text" class="span2" id="inputEmail" placeholder="Email">
-                                </div>
-                                <div class="control-group">
-                                    <input type="password" class="span2" id="inputPassword"
-                                           placeholder="Password">
-                                </div>
-                                <div class="control-group">
-                                    <label class="checkbox">
-                                        <input type="checkbox"> Beni Hatırla
-                                    </label>
-                                    <button type="submit" class="shopBtn btn-block">Giriş Yap</button>
-                                </div>
-                            </form>
-                        </div>
-                    </li>
+                    @auth
+                        <li class=""><a href="{{route('logout')}}">Çıkış</a></li>
+                    @endauth
+
+                    @guest
+                        <li class=""><a href="{{route('login')}}">Giriş Yap</a></li>
+                        <li class=""><a href="{{route('register')}}">Kayıt Ol</a></li>
+                    @endguest
                 </ul>
             </div>
         </div>
