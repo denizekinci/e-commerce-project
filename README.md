@@ -1,15 +1,16 @@
 Login Form
-![Login](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/login-form?raw=true)
+![Login](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/login-form.PNG?raw=true)
 Register Form
-![Register-form](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/register-form?raw=true)
+![Register-form](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/register-form.PNG?raw=true)
 Before Register
-![Before-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/before-register?raw=true)
+![Before-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/before-register.PNG?raw=true)
 After Register
-![After-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register?raw=true)
+![After-Register](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register.PNG?raw=true)
 After Register DB
-![After-Register-db](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register-db?raw=true)
+![After-Register-db](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/login-register/after-register-db.PNG?raw=true)
 
 ------------------
+Önceki Hafta<br>
 Homepage
 ![Homepage](https://github.com/denizekinci/e-commerce-project/blob/master/public/Screenshots/homepage.PNG?raw=true)
 Migration-Category
